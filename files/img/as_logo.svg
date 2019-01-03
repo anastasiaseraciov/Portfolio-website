@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#02B3E4;}
+	.st1{fill:none;stroke:#02B3E4;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<symbol  id="New_Symbol" viewBox="-66.4 -66.2 132.9 132.4">
+	<g>
+		<path class="st0" d="M66.4-66.2H37.4L25.8-36.1h-52.9l-10.9-30.1h-28.4l51.6,132.4h28.3L66.4-66.2z M17.2-13.8L-1,35.3l-17.9-49.1
+			H17.2z"/>
+	</g>
+</symbol>
+<rect x="0.1" y="-0.3" class="st1" width="200.2" height="200.2"/>
+<use xlink:href="#New_Symbol"  width="132.9" height="132.4" x="-66.4" y="-66.2" transform="matrix(1 0 0 -1 118.7341 119.7085)" style="overflow:visible;"/>
+</svg>
