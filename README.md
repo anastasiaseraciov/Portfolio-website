@@ -8,6 +8,12 @@ Developed a personal portfolio page using HTML, CSS, and the Bootstrap framework
 
 Click here -> :point_right: https://anastasiaseraciov.github.io/Portfolio-website/ :point_left:
 
+## Resources
+
+1. [Flexbox Froggy](https://flexboxfroggy.com/#ro)
+
+2. [Bootstrap](https://getbootstrap.com/)
+
 ## Contributing
 
 Part of the Front-End Nanodegree Program, by Udacity in collaboration with Google, Github and AT&T.
