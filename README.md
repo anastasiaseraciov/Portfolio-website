@@ -1,12 +1,13 @@
-## Portfolio-website
+# Portfolio-website
 
-# First FEND Project
+## First FEND Project
 
 Developed a personal portfolio page using HTML, CSS, and the Bootstrap framework. The page is fully responsive and works on mobile, tablet, and desktop browsers.
 
-# LIVE Page
+## LIVE Page
 
+Click here -> :point_right: https://anastasiaseraciov.github.io/Portfolio-website/ :point_left:
 
-#Contributing
+## Contributing
 
 Part of the Front-End Nanodegree Program, by Udacity in collaboration with Google, Github and AT&T.
