@@ -55,9 +55,10 @@ body {
 }
 .jumbotron {
 	margin-top: 20px;
-	background-image: url("../img/advertising_img1920x900.jpg");
 	background-size: cover;
-	color: #ffffff;
+	background-image: url("./advertising.jpg");
+	background-color: #ffffff;
+	
 }
 .jumbotron .container {
 	height: 100%;
